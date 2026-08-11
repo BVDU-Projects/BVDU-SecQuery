@@ -1,6 +1,6 @@
 ## 📖 Description
 
-**BVDU-SecQuery** (an evolution of the *SecQL* architecture) is a lightweight, zero-cost endpoint security scanner and threat intelligence aggregator developed under the **BVDU Projects** series.
+**BVDU-SecQuery** is a lightweight, zero-cost endpoint security scanner and threat intelligence aggregator developed under the **BVDU Projects** series.
 
 Designed for performance and portability, **BVDU-SecQuery** bridges local database indexing with real-time cloud threat feeds to inspect files, detect malicious payloads, and safely isolate infected binaries—all without relying on expensive infrastructure or paid security subscriptions.
 
